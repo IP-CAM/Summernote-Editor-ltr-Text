@@ -1,4 +1,3 @@
 # summernote-ltrText
-درج متن های راست به چپ در Summernote
-
-با استفاده از پلاگین inltrinrtl میتوان متن های راست به چپ را در summernote چپ به راست وارد کنید
+Insert right-to-left text in Summernote
+Using the inltrinrtl plugin you can enter right-to-left texts in left-to-right summernote 
